@@ -66,7 +66,8 @@ python -m venv env source env/bin/activate  # Windows: env\Scripts\activate
 ```
 
 ### Demo
-[![Watch the video](https://img.youtube.com/vi/shorts/KEgwVzmDQBo/0.jpg)](https://youtube.com/shorts/KEgwVzmDQBo)
+[![Watch the video](https://img.youtube.com/vi/shorts/KEgwVzmDQBo/0.jpg)](https://youtube.com/shorts/KEgwVzmDQBo)]
 
 
-](https://youtu.be/KEgwVzmDQBo)
+
+
